@@ -1,4 +1,4 @@
-# gis_utils
-Get started:
+# Get started:
 ```
 <batchfile> info
+```
